@@ -181,3 +181,18 @@ model/*.pkl
 *.pkl
 model/*.pkl
 *.pkl
+
+# Model artifacts (usually large)
+model/*.pkl
+model/*.joblib
+*.pkl
+*.joblib
+
+# Large data files
+data/*.csv
+*.csv
+
+# Other large files
+*.h5
+*.hdf5
+*.model
